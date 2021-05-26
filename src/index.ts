@@ -6,7 +6,7 @@ export async function createImage(imgUrl: string) {
 
   const y = canvas.height * 0.5;
   const x = canvas.width * 0.5;
-  const fontSize = canvas.height * 0.3;
+  const fontSize = canvas.height * 0.2;
   ctx.font = `${fontSize}px Arial`;
   ctx.textAlign = "center";
 
