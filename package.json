@@ -1,6 +1,6 @@
 {
   "name": "@fawwaz-2009/temp-canvas",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "..",
   "main": "lib/index.js",
   "scripts": {
